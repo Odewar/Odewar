@@ -1,92 +1,89 @@
-<h1 align="center">Hi, I'm Ode Warren 👋</h1>
+<h1 align="center">Hi there, I'm Ode Warren 👋</h1>
 
 <p align="center">
-  <b>Data Analyst | Monitoring & Evaluation Specialist | Insights Enthusiast</b><br>
-  📍 Nairobi, Kenya • 🌍 Passionate about data for development • 💡 Always learning!
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60"/>  
+  <b>Data Analyst | SQL + Power BI Explorer | Python Learner</b>  
+</p>
+
+<p align="center">
+  <i>“Let data speak – then act wisely.”</i>
 </p>
 
 ---
 
-## 📊 About Me
+## 🚀 About Me
 
-I'm a passionate data analyst and M&E professional with a solid foundation in **Economics and Statistics**. From collecting data in the field to building SQL databases and designing Power BI dashboards, I turn numbers into insights that **drive real-world decisions**.
-
-- 🧠 Skilled in **SQL, Excel (macros), Power BI**, and **Stata**
-- 📱 Experienced in mobile data collection using **ODK** and **Kobo Collect**
-- 📈 Visual storyteller: I love dashboards that tell impactful stories
-- 🌱 Currently learning **French** and diving deeper into **data engineering**
-- 🤝 Open to remote collaborations and data-for-good projects
+🎓 Background in **Economics & Statistics** | 💡 Passionate about transforming raw data into real-world impact  
+🔍 Lover of dashboards, automation, and elegant SQL queries  
+🧠 Currently diving deeper into **Python for data analysis and automation**
 
 ---
 
-## 🛠️ Tech Stack
-
-| Tool            | Proficiency      |
-|-----------------|------------------|
-| `SQL`           | ⭐⭐⭐⭐✰             |
-| `Power BI`      | ⭐⭐⭐⭐✰             |
-| `Excel (Macros)`| ⭐⭐⭐⭐✰             |
-| `Stata`         | ⭐⭐⭐⭐✰             |
-| `ODK/Kobo`      | ⭐⭐⭐⭐✰             |
-| `PowerPoint`    | ⭐⭐⭐⭐✰             |
-| `Python`        | ⭐⭐✰✰✰ *(learning)* |
-
----
-
-## 📁 Featured Project
-
-### 🚴 SQL + Power BI: End-to-End Data Visualization
-
-A hands-on project showcasing my ability to turn raw transactional data into interactive visualizations.
-
-🔗 [Check it out on GitHub](https://github.com/Odewar/SQL-POWER-BI.git)
-
-- Built a normalized database in **MySQL**
-- Queried and cleaned datasets to uncover revenue, profitability, and performance insights
-- Linked SQL output to **Power BI** for advanced dashboard reporting
-
----
-
-## 📌 Career Snapshot
-
-- 🏢 **Ipsos Kenya** – Data Quality Analyst  
-  Real-time insights for **World Bank** projects using SQL, Power BI, and Excel
-
-- 🗳️ **IEBC** – Polling Clerk  
-  Facilitated secure and smooth elections
-
-- 📊 **KNBS** – Enumerator  
-  Field data collection using digital tools
-
-- 🔥 **Burn Stoves** – Field Research  
-  Market insights via Kobo Collect to shape clean energy strategies
-
----
-
-## 🧾 Certifications
-
-- 📈 Monitoring and Evaluation – *USAID*
-- 🧪 Protecting Human Research Participants – *NIH*
-- 📊 Advanced Excel – *HP Life*
-- 💼 Managing Successful Field Research – *World Bank*
-- 🗂️ SQL & STATA Proficiency
-
----
-
-## 📫 Let's Connect
-
-- 💌 Email: [odewarren49@gmail.com](mailto:odewarren49@gmail.com)
-- 📞 Phone: +254700121394
-- 🌐 LinkedIn: [linkedin.com/in/ode-warren](https://linkedin.com/in/ode-warren) *(create this if not available)*
-
----
+## 🔧 Tech Toolbox
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Odewar&show_icons=true&theme=gruvbox" alt="Ode Warren's GitHub stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Odewar&layout=compact&theme=gruvbox" alt="Top Languages"/>
+  <img src="https://img.shields.io/badge/SQL-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=orange"/>
+  <img src="https://img.shields.io/badge/Excel-Advanced-informational?style=flat&logo=microsoft-excel&logoColor=white&color=green"/>
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboards-informational?style=flat&logo=powerbi&logoColor=white&color=yellow"/>
+  <img src="https://img.shields.io/badge/Stata-Statistical_Analysis-informational?style=flat&color=blue"/>
+  <img src="https://img.shields.io/badge/Python-Data-informational?style=flat&logo=python&logoColor=white&color=blue"/>
+  <img src="https://img.shields.io/badge/ODK/Kobo-Data_Collection-informational?style=flat&color=purple"/>
 </p>
 
+---
+
+## 🧠 Skills Snapshot
+
+- 📊 **Data Analysis** & **Visualization** with SQL, Power BI, and Excel
+- ⚙️ **Excel Macros** for automation
+- 🛠 **Database Design**, Querying & Management (SQL)
+- 📱 Mobile Data Collection with **ODK** and **Kobo Collect**
+- 📈 Reporting & KPI Dashboards for actionable insights
+- 🌍 Communicating insights in **English**, **Swahili**, and learning **French**
+
+---
+
+## 📌 Projects
+
+### 🔷 **SQL + Power BI Project**  
+💡 *End-to-End Data Visualization from MySQL to Power BI*  
+📊 [View Project on GitHub »](https://github.com/Odewar/SQL-POWER-BI.git)  
+🔧 Tools: MySQL, Power BI, DAX  
+📎 Insights: Revenue, profit trends, and delivery stats
+
+> ![Power BI Example](https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif)
+
+---
+
+### 🐍 **Python Data Analysis Project** *(In Progress)*  
+📊 Cleaning and visualizing real-world survey data using Pandas, Seaborn, and Plotly  
+🚧 [Check it out »](https://github.com/Odewar/Python-Data-Project) *(Coming Soon)*  
+💼 Focus: Survey summaries, gender analysis, geolocation clusters
+
+> ![Python Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+---
+
+## 📜 Certifications
+
+- ✅ **Advanced Excel** – HP Life  
+- ✅ **Monitoring & Evaluation** – USAID  
+- ✅ **Protecting Human Research Participants** – NIH  
+- ✅ **Managing Field Research** – World Bank  
+- ✅ **SQL & STATA Certification**
+
+---
+
+## 📫 Reach Me
+
+📧 [odewarren49@gmail.com](mailto:odewarren49@gmail.com)  
+🌐 [LinkedIn (coming soon)](https://linkedin.com/in/ode-warren)  
+📍 Nairobi, Kenya  
+
+---
+
 <p align="center">
-  ⚡ “Let data speak – then act wisely.”
+  <img src="https://github-readme-stats.vercel.app/api?username=Odewar&show_icons=true&theme=dracula" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Odewar&layout=compact&theme=dracula" />
 </p>
